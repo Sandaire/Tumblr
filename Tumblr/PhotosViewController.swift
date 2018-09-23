@@ -2,7 +2,7 @@
 //  PhotosViewController.swift
 //  Tumblr
 //
-//  Created by Djason  Sylvaince on 9/23/18.
+//  Created by Sandyna Sandaire on 9/23/18.
 //  Copyright © 2018 Sandyna Sandaire. All rights reserved.
 //
 
@@ -70,6 +70,12 @@ class PhotosViewController: UIViewController, UITableViewDataSource, UITableView
             let url = URL(string: urlString)
             cell.photoImageView.af_setImage(withURL: url!)
         }
+        
+        // Use a red color when the user selects the cell
+        let backgroundView = UIView()
+        backgroundView.backgroundColor = UIColor.brown
+        cell.selectedBackgroundView = backgroundView
+        
         return cell
     }
     

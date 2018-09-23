@@ -2,7 +2,7 @@
 //  TumblrTests.swift
 //  TumblrTests
 //
-//  Created by Djason  Sylvaince on 9/23/18.
+//  Created by Sandyna Sandaire on 9/23/18.
 //  Copyright © 2018 Sandyna Sandaire. All rights reserved.
 //
 
