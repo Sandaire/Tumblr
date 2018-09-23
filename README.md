@@ -21,6 +21,7 @@ The following **additional** user stories are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
 
+
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1.
@@ -32,6 +33,39 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Sandaire/Tumblr/blob/master/tumblr.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+# Lab 2 - *Tumblr*
+
+**Tumblr** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
+
+Time spent: **X** hours spent in total
+
+## User Stories
+
+The following **required** user stories are complete:
+
+- [x] User can tab an image to view a larger image in a detail view (5pts)
+
+The following **stretch** user stories are implemented:
+
+- [x] Add Avatar and Publish Dates (+2pt)
+- [ ] Zoomable Photo View (+2pt)
+- [ ] Infinite Scrolling (+2pt)
+
+The following **additional** user stories are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+- [x] Add Pull to Refresh
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+1.
+2.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/Sandaire/Tumblr/blob/master/tumblrlab2.gif?raw=true' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
@@ -40,7 +74,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
